@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexKamambo
-- 👀 I’m interested in ...Soft Development.
+- 👀 I’m interested in ...Software Development.
 - 🌱 I’m currently learning ...Dietitics.
 - 💞️ I’m looking to collaborate on ...Backend.
 - 📫 How to reach me ... Twitter or on this platform.
